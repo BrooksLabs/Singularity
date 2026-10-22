@@ -1,4 +1,4 @@
-# Singularity - The Everything AI-Assistant
+# Singularity - The Everything Ai-Assistant
 
 <p align="center">
   <img width="300" height="300" alt="Singularity" src="https://github.com/user-attachments/assets/d54501ca-435d-4a3c-abf7-08f62073d4c5" />
